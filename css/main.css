@@ -95,3 +95,8 @@ img.welcome-text {
 	text-decoration: none;
 	margin: 0 30px;
 }
+
+.todoItem {
+	list-style: circle;
+	display: list-item;
+}
